@@ -6,7 +6,7 @@ Senior Mobile Engineer
 
 Experienced senior mobile developer (over 8 years) with a focus on Flutter for the past 5 years, previously specializing in Android development. Passionate about creating efficient and user-friendly mobile applications.
 
-* 🌍  I'm based in Katowice, Poland
+* 🌍  I'm based in Poland
 * ✉️  You can contact me at [stolarczyk.kuba@gmail.com](mailto:stolarczyk.kuba@gmail.com)
 
 ### Skills
